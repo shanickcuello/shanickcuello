@@ -50,6 +50,8 @@ But I'm not just a hacker/developer. I'm that spark of motivation for the team, 
 
 Feel free to reach out to me for collaborations, networking, or just to say hi! 👋
 
+[![Email me](https://img.shields.io/badge/Email%20me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shanickgauthier@gmail.com)
+
 ---
 
 If you read this line I invite you a coffe! ☕

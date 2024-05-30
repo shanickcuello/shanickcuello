@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Shanick 🚀 
 
 ### 👨‍💻 Software Engineer (Lover of TDD, CleanCode and of course, Hacking!)
-[Click here for more info](https://www.shanick.dev/)
+## [Click here for more info](https://www.shanick.dev/)
 
 ---
 ## If you only have 10 seconds read this:

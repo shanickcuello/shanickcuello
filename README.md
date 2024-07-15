@@ -13,13 +13,6 @@
 - 🔒 I am passionate about hacking and cybersecurity, and I work with Kali Linux and Python.
 ---
 
-## 🌟 About Me
-
-I'm a software engineer specialized in mobile development. With over 7 years of experience, I've honed my skills in **Mobile**, **Backend**, and **VideoGames** development. I'm passionate about solid patterns, **Test Driven Development (TDD)**, and **Domain Driven Design (DDD)** among other design patterns. 
-But I'm not just a hacker/developer. I'm that spark of motivation for the team, always pushing to improve, optimize processes, and actively participate in the entire agile cycle. **Always learning, always growing!** 📈✨
-
----
-
 ## 💼 Technologies & Skills
 
 - **Languages & Frameworks:**

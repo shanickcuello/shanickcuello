@@ -35,6 +35,7 @@
   - 🛠️ **Nmap**
   - 🔍 **Burp Suite**
   - 🔒 **Metasploit**
+  - [Here](https://github.com/shanickcuello/computer-settings/blob/main/auto_install.sh) you can see my most used tools
 
 ---
 

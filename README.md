@@ -5,7 +5,6 @@
 
 ---
 ## If you only have 10 seconds read this:
-- 💻 I work as a senior developer at [Homagames](https://www.homagames.com/).
 - 🧑‍🤝‍🧑 I work as tech recruiter for [Lemon](https://lemon.io/)
 - 🚀 [I founded](https://hexar-edu.github.io/index.html) a technology company at the age of 18. We worked with the National [Ministry of Education](https://www.instagram.com/p/CLxnLJ3LOXQ/?img_index=1), UNESCO, and Microsoft.
 - 🌍 I work in English, but my native language is Spanish and C#. I speak French and Python very well. I am learning Norwegian for fun.

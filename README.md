@@ -1,7 +1,31 @@
-## Hi there 👋 My name is Shanick 🚀 
+# Hi there 👋 My name is Shanick 🚀 
 
-### 👨‍💻 Software Engineer (Lover of TDD, CleanCode and of course, Hacking!)
 ## [Click here for more info](https://linktr.ee/shanick)
+
+### About me 
+
+Software Engineer (TDD, Clean Code & a calling for Cybersecurity)
+
+🧑🏼‍💻 /etc/passwd
+- Tech recruiter at lemon.io
+- Co-founded a tech startup at 18. We worked with the National Ministry of Education, UNESCO, and Microsoft.
+- I work in English. Native in Spanish and C#. I speak fluent French and Python. Learning Norwegian for fun.
+- I love leading retrospectives, postmortems, plannings, and other magical Scrum rituals.
+- I'm passionate about ethical hacking and cybersecurity. I tinker with Kali Linux and Python.
+
+
+🪂 /etc/user
+
+I'm a Software Engineer with 8 years of experience, specialized in mobile and backend development.
+I work primarily with C# and Unity 3D, and also with Python and Kali Linux. Depends the hour.
+
+🏁 /etc/crontab
++ I make product decisions based on data and metrics. N-testing is my best friend.
++ I focus on what I can't delegate — high-impact work first, Hyperfocus style.
++ I help create safe and honest team environments. Big fan of Radical Candor.
++ I can’t split the bill, Never Split the Difference, Tahl Raz style.
+
+I write code because I enjoy it. I build products because they motivate me. I hack systems to help make the world safer.
 
 ---
 
@@ -26,49 +50,6 @@
 - [cr2 to jpg converter](https://github.com/shanickcuello/cr2-to-jpg-converter)
 - [My learning resources](https://github.com/shanickcuello/learning-resources)
 - [Markdown T.O.C. creator](https://github.com/shanickcuello/markdown-toc-creator)
-
-
----
-## If you only have 10 seconds read this:
-- 🧑‍🤝‍🧑 I work as tech recruiter for [Lemon](https://lemon.io/)
-- 🚀 I founded Hexar. A technology company at the age of 18. We worked with the National [Ministry of Education](https://www.instagram.com/p/CLxnLJ3LOXQ/?img_index=1), UNESCO, and Microsoft.
-- 🌍 I work in English, but my native language is Spanish and C#. I speak French and Python very well. I am learning Norwegian for fun.
-- 🎯 I love leading processes like retrospectives, postmortems, and other Scrum magic.
-- 🔒 I am passionate about hacking and cybersecurity, and I work with Kali Linux and Python.
----
-
-## 💼 Technologies & Skills
-
-- **Cybersecurity**
-  I love hacking and actively practice on **Hack The Box**! Here are some of the skills and tools I enjoy using:
-  - 🛠️ **Nmap**
-  - 🔍 **Burp Suite**
-  - 🔒 **Metasploit**
-  - 🧰 **CrackMapExec**
-  - 🪓 **Hydra**
-  - 📡 **Nikto**
-  - 🐚 **Netcat**
-  - 🔦 **Dirb / Dirbuster**
-  - 🛰️ **TheHarvester**
-  - 🐍 **Impacket**
-  - 🕵️‍♂️ **Wireshark**
-  - 🔧 **Enum4linux**
- 
-- **Languages & Frameworks:**
-  - 🧊 Unity
-  - 🟦 C#
-  - 🌐 .NET
-  - 💻 Typescript/Javascript with ReactJs/NextJs
-  - 🐍 Python
-  - 🟡 Dart with Flutter
-
-- **Cloud & Databases:**
-  - ☁️ AWS services
-  - 🗄️ DynamoDB
-  - ☁️ Google Cloud
-  - 🔥 Firebase
-  - 🍃 MongoDB
-
 
 ---
 

@@ -14,7 +14,7 @@ Software Engineer (TDD, Clean Code & a calling for Cybersecurity)
 - I'm passionate about ethical hacking and cybersecurity. I tinker with Kali Linux and Python.
 
 
-🪂 /etc/user
+🪂 /etc/hosts
 
 I'm a Software Engineer with 8 years of experience, specialized in mobile and backend development.
 I work primarily with C# and Unity 3D, and also with Python and Kali Linux. Depends the hour.

@@ -6,19 +6,19 @@
 
 Software Engineer (TDD, Clean Code & a calling for Cybersecurity)
 
-🪂 /etc/hosts
+🪂 `/etc/passwd`
 
 I'm a Software Engineer with 8 years of experience, specialized in mobile and backend development.
 I work primarily with C# and Unity 3D, and also with Python and Kali Linux. Depends the hour.
 
-🧑🏼‍💻 /etc/passwd
+🧑🏼‍💻 `/etc/passwd`
 - Tech recruiter at lemon.io
 - Co-founded a tech startup at 18. We worked with the National Ministry of Education, UNESCO, and Microsoft.
 - I work in English. Native in Spanish and C#. I speak fluent French and Python. Learning Norwegian for fun.
 - I love leading retrospectives, postmortems, plannings, and other magical Scrum rituals.
 - I'm passionate about ethical hacking and cybersecurity. I tinker with Kali Linux and Python.
 
-🏁 /etc/crontab
+🏁 `/etc/group`
 + I make product decisions based on data and metrics. N-testing is my best friend.
 + I focus on what I can't delegate — high-impact work first, Hyperfocus style.
 + I help create safe and honest team environments. Big fan of Radical Candor.

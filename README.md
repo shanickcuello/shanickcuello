@@ -3,28 +3,45 @@
 ## [Click here for more info](https://linktr.ee/shanick)
 
 ### About me 
+Software Engineer | Driven by Empathy, Ownership, Clean Code, and a Passion for Cybersecurity
 
-Software Engineer (TDD, Clean Code & a calling for Cybersecurity)
+## Languages: 
+C#, Python, Dart, TypeScript
+Frameworks / Tools: Unity, Kali Linux, Flutter, Next.js, Flask
+Cloud / DevOps: AWS, GitHub Actions, Firebase, Crashlytics
 
-🪂 `/etc/passwd`
+"The human brain can only focus on 40 out of the 11 million bits it receives per second."
+Thank you for focusing on my profile.
+- Hyperfocus by Chris Bailey -
 
+## 🏎️ TL;DR (If you only have 10 seconds, read this):
+- Tech recruiter at lemon.io
+- Co-founded an educational video game startup that collaborated with the National Ministry of Education, UNESCO, and Microsoft.
+- I work in English. Native in Spanish and C#. I speak fluent French and Python. Learning Norwegian for fun.
+- I love leading retrospectives, postmortems, plannings, and other magical Scrum rituals.
+- I'm passionate about ethical hacking and cybersecurity. I work with Kali Linux and Python.
+
+## 🪂 About me
 I'm a Software Engineer with 8 years of experience, specialized in mobile and backend development.
 I work primarily with C# and Unity 3D, and also with Python and Kali Linux. Depends the hour.
 
-🧑🏼‍💻 `/etc/passwd`
-- Tech recruiter at lemon.io
-- Co-founded a tech startup at 18. We worked with the National Ministry of Education, UNESCO, and Microsoft.
-- I work in English. Native in Spanish and C#. I speak fluent French and Python. Learning Norwegian for fun.
-- I love leading retrospectives, postmortems, plannings, and other magical Scrum rituals.
-- I'm passionate about ethical hacking and cybersecurity. I tinker with Kali Linux and Python.
+## 🏁 In my day-to-day:
+- I make data-driven decisions without ignoring intuition.
+- I foster honest and comfortable work environments. I'm an advocate for Radical Candor.
+- Leadership isn’t a role — it’s a shared responsibility.
 
-🏁 `/etc/group`
-+ I make product decisions based on data and metrics. N-testing is my best friend.
-+ I focus on what I can't delegate — high-impact work first, Hyperfocus style.
-+ I help create safe and honest team environments. Big fan of Radical Candor.
-+ I can’t split the bill, Never Split the Difference, Tahl Raz style.
+`I write code because I enjoy it. I build products because they motivate me. I hack systems to help make the world safer.` 
 
-I write code because I enjoy it. I build products because they motivate me. I hack systems to help make the world safer.
+## Books that shape my work philosophy:
+- Data-Driven: Creating a Data Culture
+- Radical Candor
+- Management 3.0
+- Never Split the Difference
+- The 7 Cs of Communication
+- Clean Code
+- Clean Architecture
+- Refactoring: Improving the Design of Existing Code
+- Hyperfocus by Chris Bailey
 
 ---
 

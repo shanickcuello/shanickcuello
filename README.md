@@ -41,10 +41,7 @@ I work primarily with C# and Unity 3D.
 
 # Bits and Bytes That Matter
 
-- [My Gitbook](https://shanicks-organization.gitbook.io/hello-sudo)
-  
-## Unity and videogames
-
+- [My Gitbook](https://shanicks-organization.gitbook.io/darkconfig/)
 
 ## More
 - [Java sailpoint case study for Santander](https://github.com/shanickcuello/java-sailpoint-poc)

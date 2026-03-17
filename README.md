@@ -44,13 +44,7 @@ I work primarily with C# and Unity 3D.
 - [My Gitbook](https://shanicks-organization.gitbook.io/hello-sudo)
   
 ## Unity and videogames
-- Unity [master class](https://github.com/shanickcuello/taller-unity-mouredev) and [youtube video](https://www.youtube.com/watch?v=9Jn8pQ9fKYA)
-- [Unity Sudoku case study](https://github.com/shanickcuello/sudoku-homa-case-study)
-- [Unity multiplayer game (photon fusion)](https://github.com/shanickcuello/Vidar)
-- [Unity Draw call POC](https://github.com/shanickcuello/unity-drawcall-test)
-- Tools I work with in Unity: [Mybox](https://github.com/shanickcuello/unity-MyBox), [NotchSolution](https://github.com/shanickcuello/unity-NotchSolution), 
-- [Kata training about FSM ](https://github.com/shanickcuello/kata-fsm)
-- [IA Shooting experiment](https://github.com/shanickcuello/IAShooter)
+
 
 ## More
 - [Java sailpoint case study for Santander](https://github.com/shanickcuello/java-sailpoint-poc)
@@ -62,6 +56,13 @@ I work primarily with C# and Unity 3D.
 - [My Linux commands cheat sheet](https://github.com/shanickcuello/linux-commands-cheat-sheet)
 - [Python leetcode solutions](https://github.com/shanickcuello/LeetCodeSolutions)
 - [Bash gophish auto launcher](https://github.com/shanickcuello/gophish-autolauncher)
+- Unity [master class](https://github.com/shanickcuello/taller-unity-mouredev) and [youtube video](https://www.youtube.com/watch?v=9Jn8pQ9fKYA)
+- [Unity Sudoku case study](https://github.com/shanickcuello/sudoku-homa-case-study)
+- [Unity multiplayer game (photon fusion)](https://github.com/shanickcuello/Vidar)
+- [Unity Draw call POC](https://github.com/shanickcuello/unity-drawcall-test)
+- Tools I work with in Unity: [Mybox](https://github.com/shanickcuello/unity-MyBox), [NotchSolution](https://github.com/shanickcuello/unity-NotchSolution), 
+- [Kata training about FSM ](https://github.com/shanickcuello/kata-fsm)
+- [IA Shooting experiment](https://github.com/shanickcuello/IAShooter)
 
 ---
 

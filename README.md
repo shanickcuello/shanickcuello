@@ -1,28 +1,19 @@
-# Hi there 👋 My name is Shanick 🚀 
+# Hi there 👋 My name is Shanick
 
 ## [Click here for more info](https://linktr.ee/shanick)
 
 ### About me 
-Software Engineer | Driven by Empathy, Ownership, Clean Code, and a Passion for Every-tech
+Cybersecurity Engineer | Driven by Empathy, Ownership, Clean Code, and a Passion for Every-tech
 
-"The human brain can only focus on 40 out of the 11 million bits it receives per second."
-Thank you for focusing on my profile.
-- Hyperfocus by Chris Bailey -
+Howdy! I'm Shanick, a software engineer and cybersecurity professional with 7+ years of experience in software engineering and 4+ years specializing in cybersecurity. I've led projects from kickoff to post-mortem, secured critical infrastructure across banking and space domains _ including satellite systems _ architected and implemented IAM solutions, conducted penetration tests and red team exercises, and delivered defensive security training to employees.
 
-## 🏎️ TL;DR (If you only have 10 seconds, read this):
-- Tech recruiter at lemon.io
-- Co-founded an educational video game startup that collaborated with the National Ministry of Education, UNESCO, and Microsoft.
-- I work in English. Native in Spanish and C#. I speak fluent French and Python. Learning Norwegian for fun.
-- I love leading retrospectives, postmortems, plannings, and other magical Scrum rituals.
+Beyond my professional work, I collaborate with the University of Buenos Aires as a mentor for specialized classes and conduct technical interviews for Lemon.io.
 
-## 🪂 About me
-I'm a Software Engineer with 8 years of experience, specialized in mobile and backend development.
-I work primarily with C# and Unity 3D.
+I was also the founder of a startup recognized by UNESCO and the Chamber of Deputies, and received an award alongside a colleague from Spain's National Cybersecurity Institute (INCIBE).
 
-## 🏁 In my day-to-day:
-- I make data-driven decisions without ignoring intuition.
-- I foster honest and comfortable work environments. I'm an advocate for Radical Candor.
-- Leadership isn’t a role — it’s a shared responsibility.
+I'm a strong believer in Extreme Ownership, and I strive to lead with empathy, collaboration, and a team-first mindset.
+
+If you’d like to connect, please include a short message with your request. I prefer meaningful connections over accepting empty connection requests.
 
 `I write code because I enjoy it. I build products because they motivate me.` 
 
